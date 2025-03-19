@@ -1,17 +1,6 @@
 /*
 #############################################################################
-# COMP.CS.110 Ohjelmointi 2: Tekniikat / Programming 2: Techniques          #
-# Project: Suunnistus / Orienteering                                        #
-# File: cli.hh                                                              #
-# Description: Commandline interface for the program.                       #
-# Notes: * This is a part of an exercise program.                           #
-#        * Student's don't touch this file.                                 #
-#        * Understanding how the module works isn't necessary to complete   #
-#          this exercise.                                                   #
-#        * This is also an example how you can use function pointers to     #
-#          a class' functions.                                              #
-#        * This could be upgraded to have commandhistory with a relative    #
-#          ease.                                                            #
+
 #############################################################################
 */
 
