@@ -3,12 +3,7 @@
 /* Orienteering
  *
  *
- * Program author
- * Name: Nabid Hasan
- * Student number: 152754330
- * UserID: vmn388
- * E-Mail: nabid.hasan@tuni.fi
- *
+
  * point.hh (Header file for the Point class)
  * Declares the Point class, representing a location on the map with coordinates, height, and marker.
  *
