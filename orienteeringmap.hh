@@ -1,18 +1,6 @@
 /*
 #############################################################################
-# COMP.CS.110 Ohjelmointi 2: Tekniikat / Programming 2: Techniques          #
-# Project: Suunnistus / Orienteering                                        #
-# File: orienteeringmap                                                     #
-# Description: Datastructure that represents an orienteering map and        #
-#        handles information of points and routes                           #
-# Notes: * This is a part of an exercise program.                           #
-#        * Students aren't allowed to change the public interface!          #
-#        * Modifying the private part is allowed (and required).            #
-#############################################################################
-*/
-
-/* Orienteering
- *
+# 
  *
  * orienteeringmap.hh (Header file for the OrienteeringMap class)
  * Declares the OrienteeringMap class, which manages the map data, points, routes, and other related operations
