@@ -3,14 +3,7 @@
 /* Orienteering
  *
  *
- * route.hh (Header file for the Route class)
- * Declares the Route class, representing a path on the map,
- *
- * Program author
- * Name: Nabid Hasan
- * Student number: 152754330
- * UserID: vmn388
- * E-Mail: nabid.hasan@tuni.fi
+
  *
  *
  *
