@@ -4,12 +4,7 @@
  * orienteeringmap.cpp (Source file for the OrienteeringMap class)
  * Implements the methods of the OrienteeringMap class, providing the functionality for managing the map, points, routes, and calculations.
  *
- * Program author
- * Name: Nabid Hasan
- * Student number: 152754330
- * UserID: vmn388
- * E-Mail: nabid.hasan@tuni.fi
- *
+
  *
  *
  * */
