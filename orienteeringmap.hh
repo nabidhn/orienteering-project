@@ -17,11 +17,7 @@
  * orienteeringmap.hh (Header file for the OrienteeringMap class)
  * Declares the OrienteeringMap class, which manages the map data, points, routes, and other related operations
  *
- * Program author
- * Name: Nabid Hasan
- * Student number: 152754330
- * UserID: vmn388
- * E-Mail: nabid.hasan@tuni.fi
+\
  *
  *
  *
